@@ -1,10 +1,23 @@
 {
-  "users": [
+  "employee": [
     {
-      "title": "hello"
+      "firstname": "Foo",
+      "lastname": "Bar",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  
+  "clients": [
+    {
+      "id": 1000,
+      "displayname": "Client 1000",
+    }
+  ],
+  
+  "projects": [
+    {
+      "id": 1,
+      "title": "Foobar",
+      "client": 1000
+    }
+  ]
 }
