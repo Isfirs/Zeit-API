@@ -1,6 +1,6 @@
 {
   "Employee": {
-    "firstname": { "string": {} },
-    "lastname": { "string": {} },
-  },
+    "firstname": { "string": {} }
+    "lastname": { "string": {} }
+  }
 }
